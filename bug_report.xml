@@ -8,10 +8,10 @@
         <precondition_1>Страница 'Контакты'</precondition_1>
         <precondition_2>Платформа и устройство не имеют значения</precondition_2>
       </Preconditions>
-      <Steps to reproduce> 
+      <Steps_to_reproduce> 
         <step_1>Заполнить поля формы обратной связи</step_1>
         <step_2>Нажать на кнопку 'Отправить сообщение'</step_2>
-      </Steps to reproduce>
+      </Steps_to_reproduce>
       <Expected_result>Сообщение отправляется, либо система сообщает о невозможности его отправки</Expected_result>
       <Actual_result>Сообщение не отправляется, не появляется ошибка об отправке.После нажатия на кнопку ничего не происходит</Actual_result>
       <Priority>High</Priority>
