@@ -14,8 +14,8 @@
       </Steps to reproduce>
       <Expected_result>Сообщение отправляется, либо система сообщает о невозможности его отправки</Expected_result>
       <Actual_result>Сообщение не отправляется, не появляется ошибка об отправке.После нажатия на кнопку ничего не происходит</Actual_result>
-      <Priority>high</Priority>
-      <Severity>major</Severity>
+      <Priority>High</Priority>
+      <Severity>Major</Severity>
       <Status>Открыт</Status>
   <Attachments>при необходимости</Attachments>
      </body
